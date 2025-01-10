@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="TheMuppets/proprietary_vendor_xiaomi_earth" path="vendor/xiaomi/earth" revision="lineage-21" clone-depth="1" />
+</manifest>
